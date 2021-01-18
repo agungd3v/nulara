@@ -2,8 +2,8 @@
 
 Nuxt Note :
 - npm install or yarn install
-- Setting APP_PORT 3023
-- Setting BASE_URL http://yourlocalhost.laravel/api
+- setting APP_PORT 3023
+- setting BASE_URL http://yourlocalhost.laravel/api
 - npm run dev or yarn dev
 - goto http://localhost:3023/dashboard
 
