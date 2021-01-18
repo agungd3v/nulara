@@ -1,5 +1,4 @@
 # nulara
-Nuxtjs + Laravel
 
 Nuxt Note :
 - npm install or yarn install
@@ -9,3 +8,4 @@ Nuxt Note :
 Laravel Note :
 - composer install
 - npm install (optional)
+- php artisan migrate
