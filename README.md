@@ -5,7 +5,7 @@ Nuxt Note :
 - Setting APP_PORT 3023
 - Setting BASE_URL http://yourlocal.host/api
 - npm run dev or yarn dev
-- goto http://localhost/dashboard
+- goto http://localhost:3023/dashboard
 
 Laravel Note :
 - composer install
